@@ -1,3 +1,3 @@
 # AnalogReader
 
-Analog clock reader built using
+Analog clock reader built using Open Python Library
